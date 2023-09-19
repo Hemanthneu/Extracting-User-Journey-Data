@@ -9,6 +9,7 @@ Project Objectives:
 Utilize SQL for efficient data aggregation and preprocessing to facilitate robust user journey analysis.
 Define "user journey" as the sequence of steps users take while exploring the product or platform leading up to a purchase.
 Contextualize the project within an online subscription-based company offering various subscription plans (monthly, quarterly, and annual).
+
 Key Features:
 
 SQL-Based Data Extraction: Leverage SQL queries to aggregate user data and extract comprehensive user journeys.
