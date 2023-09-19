@@ -1,6 +1,4 @@
-# Extracting-User-Journey-Data
-
-Build a Query On User Data to Create Customer Journey Strings
+# Build a Query On User Data to Create Customer Journey Strings
 
 Welcome to the Extracting User Journey Data with SQL project! This repository is dedicated to streamlining data aggregation and preprocessing through SQL for comprehensive user journey analysis. The primary focus of this project is to create a customer journey data extract, serving as a foundation for subsequent in-depth analysis.
 
